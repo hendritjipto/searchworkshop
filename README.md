@@ -1,0 +1,2 @@
+# MongoDB Atlas Search Lab
+This is a lab to help you gain experience using MongoDB Atlas Search. Full instructions for using this lab are available [in this Google doc](https://docs.google.com/document/d/1TDtI7a2dvnTe6OZwto8Qx2UJjUhWQCNTol9mXzn9rZ8/edit?usp=sharing)
